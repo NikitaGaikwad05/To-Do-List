@@ -145,3 +145,4 @@ function deleteAllTasks() {
 function saveToLocalStorage() {
   localStorage.setItem("todo", JSON.stringify(todo));
 }
+
